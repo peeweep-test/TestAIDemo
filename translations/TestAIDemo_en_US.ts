@@ -56,22 +56,22 @@
     <message>
         <location filename="../main.cpp" line="24"/>
         <source>我是一个肉鼠</source>
-        <translation type="unfinished"/>
+        <translation>I am a plump rat</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="25"/>
         <source>你是一个瘦猫</source>
-        <translation type="unfinished"/>
+        <translation>You are a slim cat</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>今天不吃晚饭</source>
-        <translation type="unfinished"/>
+        <translation>I won&apos;t have dinner today</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>你是个竹鼠</source>
-        <translation type="unfinished"/>
+        <translation>You are a bamboo rat</translation>
     </message>
 </context>
 </TS>
