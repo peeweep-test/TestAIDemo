@@ -25,6 +25,14 @@ int main(int argc, char *argv[])
     QString errorMessage12 = QObject::tr("你是一个瘦猫");
     QString errorMessage13 = QObject::tr("今天不吃晚饭");
     QString errorMessage14 = QObject::tr("你是个竹鼠");
+    QString monday = QObject::tr("Monday");
+    QString tuesday = QObject::tr("Tuesday");
+    QString wednesday = QObject::tr("Wednesday");
+    QString thursday = QObject::tr("Thursday");
+    QString friday = QObject::tr("Friday");
+    QString saturday = QObject::tr("Saturday");
+    QString sunday = QObject::tr("Sunday");
+
     
 
     // 打印普通翻译信息
