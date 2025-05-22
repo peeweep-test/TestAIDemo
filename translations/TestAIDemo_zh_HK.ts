@@ -131,12 +131,12 @@
     <message>
         <location filename="../main.cpp" line="39"/>
         <source>today</source>
-        <translation type="unfinished"/>
+        <translation>今天</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="40"/>
         <source>python</source>
-        <translation type="unfinished"/>
+        <translation>python</translation>
     </message>
 </context>
 </TS>
