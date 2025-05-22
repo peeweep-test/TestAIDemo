@@ -4,12 +4,12 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>Â¡Hola, bienvenÃ­u a l&apos;aplicaciÃ³n!</translation>
+        <translation>ÃÂ¡Hola, bienvenÃÂ­u a l&apos;aplicaciÃÂ³n!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>Esta ye un mensaxe de avÃ­s.</translation>
+        <translation>Esta ye un mensaxe de avÃÂ­s.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>Hoxe ye un dÃ­a ben.</translation>
+        <translation>Hoxe ye un dÃÂ­a ben.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation>MiÃ©rcoles</translation>
+        <translation>MiÃÂ©rcoles</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation>SÃ¡bado</translation>
+        <translation>SÃÂ¡bado</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../main.cpp" line="37"/>
         <source>Autumn</source>
-        <translation>OtoÃ±o</translation>
+        <translation>OtoÃÂ±o</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="38"/>
@@ -141,17 +141,17 @@
     <message>
         <location filename="../main.cpp" line="41"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation type="unfinished"/>
+        <translation>El zorro marrón veloz salta sobre el perro perezoso</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation type="unfinished"/>
+        <translation>Todas as obras e nenha desafo non fai a Jack un nen buró</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>To be or not to be, that is the question</source>
-        <translation type="unfinished"/>
+        <translation>Ser ou non ser, esa ye la pregunta</translation>
     </message>
 </context>
 </TS>
