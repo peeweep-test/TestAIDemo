@@ -108,5 +108,25 @@
         <source>Sunday</source>
         <translation>Sunday</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="35"/>
+        <source>Spring</source>
+        <translation>Spring</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="36"/>
+        <source>Summer</source>
+        <translation>Summer</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="37"/>
+        <source>Autumn</source>
+        <translation>Autumn</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="38"/>
+        <source>Winter</source>
+        <translation>Winter</translation>
+    </message>
 </context>
 </TS>

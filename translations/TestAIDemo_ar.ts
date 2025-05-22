@@ -106,7 +106,27 @@
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation>السبت</translation>
+        <translation>الأحد</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="35"/>
+        <source>Spring</source>
+        <translation>الربيع</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="36"/>
+        <source>Summer</source>
+        <translation>الصيف</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="37"/>
+        <source>Autumn</source>
+        <translation>الخريف</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="38"/>
+        <source>Winter</source>
+        <translation>الشتاء</translation>
     </message>
 </context>
 </TS>
