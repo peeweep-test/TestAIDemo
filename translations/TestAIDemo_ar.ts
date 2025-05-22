@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ar">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ar">
 <context>
     <name>QObject</name>
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>مرحبًا، مرحباً بك في التطبيق!</translation>
+        <translation>مرحبًا، ترحيباً ب��的应用程序！</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
@@ -26,54 +24,54 @@
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation>موافق</translation>
+        <translation>حسناً</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"></translation>
+        <translation>اليوم هو يوم جيد</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"></translation>
+        <translation>أحبك</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation type="unfinished"></translation>
+        <translation>أكرهك</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation type="unfinished"></translation>
+        <translation>أنا شخص حسن</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation type="unfinished"></translation>
+        <translation>أنا شخص سيء</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
         <source>我是一个肉鼠</source>
-        <translation type="unfinished"></translation>
+        <translation>أنا فأر لحم</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="25"/>
         <source>你是一个瘦猫</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت قطة رفية</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>今天不吃晚饭</source>
-        <translation type="unfinished"></translation>
+        <translation>لن أتناول العشاء اليوم</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>你是个竹鼠</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت فأر قش</translation>
     </message>
 </context>
 </TS>
