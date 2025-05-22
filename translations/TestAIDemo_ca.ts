@@ -4,17 +4,17 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>Hola, benvingut a l&apos;aplicació!</translation>
+        <translation>Hola, benvingut a l&apos;aplicaciÃ³!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>Aquesta és un missatge de警戒!</translation>
+        <translation>Aquesta Ã©s un missatge deè­¦æ!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>Aquest és un missatge d&apos;error.</translation>
+        <translation>Aquest Ã©s un missatge d&apos;error.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="15"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>Avui és un bon dia</translation>
+        <translation>Avui Ã©s un bon dia</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
@@ -45,13 +45,13 @@
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation>Sóc una bona persona</translation>
+        <translation>SÃ³c una bona persona</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation>Sóc una persona mala</translation>
+        <translation>SÃ³c una persona mala</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
@@ -127,6 +127,16 @@
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
         <translation>Vall</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
+        <source>today</source>
+        <translation>avui</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="40"/>
+        <source>python</source>
+        <translation>python</translation>
     </message>
 </context>
 </TS>
