@@ -19,7 +19,7 @@
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"/>
+        <translation>Today is a good day</translation>
     </message>
 </context>
 </TS>
