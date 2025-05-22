@@ -73,5 +73,40 @@
         <source>你是个竹鼠</source>
         <translation>أنت فأر قش</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="28"/>
+        <source>Monday</source>
+        <translation>الإثنين</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="29"/>
+        <source>Tuesday</source>
+        <translation>الثلاثاء</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="30"/>
+        <source>Wednesday</source>
+        <translation>الأربعاء</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="31"/>
+        <source>Thursday</source>
+        <translation>الخميس</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="32"/>
+        <source>Friday</source>
+        <translation>الجمعة</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="33"/>
+        <source>Saturday</source>
+        <translation>السبت</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="34"/>
+        <source>Sunday</source>
+        <translation>السبت</translation>
+    </message>
 </context>
 </TS>
