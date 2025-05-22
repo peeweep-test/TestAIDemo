@@ -16,5 +16,10 @@
         <source>This is an error message.</source>
         <translation>這是一個錯誤消息。</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="17"/>
+        <source>Today is a good day</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
