@@ -76,37 +76,37 @@
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Pazartesi</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Salı</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Çarşamba</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Perşembe</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Cuma</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Cumartesi</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Pazar</translation>
     </message>
 </context>
 </TS>
