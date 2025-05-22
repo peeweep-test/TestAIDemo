@@ -9,17 +9,17 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation type="unfinished"/>
+        <translation>這是一個警告資訊。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation type="unfinished"/>
+        <translation>這是一個錯誤資訊。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="15"/>
         <source>test !!!</source>
-        <translation type="unfinished"/>
+        <translation>測試 !!!</translation>
     </message>
 </context>
 </TS>
