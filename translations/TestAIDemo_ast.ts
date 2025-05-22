@@ -4,12 +4,12 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>Benvindo, benvido a l&apos;aplicación!</translation>
+        <translation>Benvindo, benvido a l&apos;aplicaciÃ³n!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>Esta ye un mensaxe de avís.</translation>
+        <translation>Esta ye un mensaxe de avÃ­s.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"/>
+        <translation>Hoxe é un día ben bueno</translation>
     </message>
 </context>
 </TS>
