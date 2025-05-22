@@ -4,7 +4,7 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>ä½ å¥½ï¼æ¬¢è¿ä½¿ç¨æ¬åºç¨ï¼</translation>
+        <translation>你好，欢迎使用本应用！</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
