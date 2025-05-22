@@ -128,5 +128,15 @@
         <source>Winter</source>
         <translation>Başlıq</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="40"/>
+        <source>python</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
