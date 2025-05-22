@@ -14,7 +14,7 @@
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>è¿æ¯ä¸ä¸ªéè¯¯æ¶æ¯ã</translation>
+        <translation>这是一个错误消息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
