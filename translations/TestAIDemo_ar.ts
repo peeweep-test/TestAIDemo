@@ -106,7 +106,7 @@
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation>السبت</translation>
+        <translation>الأحد</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="35"/>
