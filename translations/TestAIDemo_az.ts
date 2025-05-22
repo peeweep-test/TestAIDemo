@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="az">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="az">
 <context>
     <name>QObject</name>
     <message>
@@ -26,54 +24,54 @@
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation>tamam</translation>
+        <translation>təsdiq</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugün iyi bir gün</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizni sevirəm</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation type="unfinished"></translation>
+        <translation>Sizni qeyd etməm</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation type="unfinished"></translation>
+        <translation>Ben iyi bir şəxsim</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation type="unfinished"></translation>
+        <translation>Ben pahalıq ola bilər</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
         <source>我是一个肉鼠</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni qalpqıqым</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="25"/>
         <source>你是一个瘦猫</source>
-        <translation type="unfinished"></translation>
+        <translation>Sıvı qaraqıqы</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>今天不吃晚饭</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu gün həmişə quruq qaz yemək</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>你是个竹鼠</source>
-        <translation type="unfinished"></translation>
+        <translation>Siz bir bambus qalpqıqы</translation>
     </message>
 </context>
 </TS>
