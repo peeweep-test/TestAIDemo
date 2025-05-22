@@ -6,7 +6,7 @@
         <message>
             <location filename="../main.cpp" line="12"/>
             <source>Hello, welcome to the application!</source>
-            <translation type="unfinished"></translation>
+            <translation>مرحبا بك في التطبيق!</translation>
         </message>
     <message>
         <location filename="../main.cpp" line="13"/>
