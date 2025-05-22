@@ -2,7 +2,7 @@
 host = https://www.transifex.com
 
 [o:peeweep-test:p:TestAIDemo:r:3fa005ff13ae858eb06aee1674a4ce80]
-file_filter = translations/translation_<lang>.ts
-source_file = translations/translation_en.ts
+file_filter = translations/TestAIDemo_<lang>.ts
+source_file = translations/TestAIDemo_en.ts
 source_lang = en_US
 type = QT
