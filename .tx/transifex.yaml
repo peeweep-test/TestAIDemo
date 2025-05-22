@@ -4,10 +4,10 @@
 
 filters:
   - filter_type: file
-    source_file: translations/translation_en.ts
+    source_file: translations/TestAIDemo_en.ts
     file_format: QT
     source_language: en_US
-    translation_files_expression: translations/translation_<lang>.ts
+    translation_files_expression: translations/TestAIDemo_<lang>.ts
 
 settings:
   pr_branch_name: transifex_update_<br_unique_id> 

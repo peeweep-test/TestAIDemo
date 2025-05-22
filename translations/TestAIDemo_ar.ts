@@ -8,15 +8,5 @@
         <source>Hello, welcome to the application!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../main.cpp" line="13"/>
-        <source>This is a warning message.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../main.cpp" line="14"/>
-        <source>This is an error message.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>

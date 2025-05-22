@@ -10,8 +10,6 @@ int main(int argc, char *argv[])
 
     // 使用 tr() 添加两条翻译字段
     QString greeting = QObject::tr("Hello, welcome to the application!");
-    QString warningMessage = QObject::tr("This is a warning message.");
-    QString errorMessage = QObject::tr("This is an error message.");
     // 打印普通翻译信息
     qWarning() << greeting;
 
