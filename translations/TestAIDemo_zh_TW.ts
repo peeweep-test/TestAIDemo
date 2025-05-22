@@ -24,7 +24,7 @@
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>確定</translation>
     </message>
 </context>
 </TS>
