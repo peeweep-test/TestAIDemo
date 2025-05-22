@@ -4,17 +4,18 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>Salam, tÉtbiqÉ xoÅ gÉlmisiniz!</translation>
+        <translation>Salam, tÃÂtbiqÃÂ xoÃ
+Â gÃÂlmisiniz!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>Bu bir xÃ¼susi mesajdÄ±r.</translation>
+        <translation>Bu bir xÃÂ¼susi mesajdÃÂ±r.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>Bu bir xÉta mesajÄ±dÄ±r.</translation>
+        <translation>Bu bir xÃÂta mesajÃÂ±dÃÂ±r.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="15"/>
@@ -24,34 +25,35 @@
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation>tÉsdiq</translation>
+        <translation>tÃÂsdiq</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>BugÃ¼n iyi bir gÃ¼n</translation>
+        <translation>BugÃÂ¼n iyi bir gÃÂ¼n</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>Sizni sevirÉm</translation>
+        <translation>Sizni sevirÃÂm</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>Sizni qeyd etmÉm</translation>
+        <translation>Sizni qeyd etmÃÂm</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation>Ben iyi bir ÅÉxsim</translation>
+        <translation>Ben iyi bir Ã
+ÂÃÂxsim</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation>Ben pahalÄ±q ola bilÉr</translation>
+        <translation>Ben pahalÃÂ±q ola bilÃÂr</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
@@ -81,17 +83,19 @@
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation>SalÄ±</translation>
+        <translation>SalÃÂ±</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation>ÃarÅamba</translation>
+        <translation>ÃÂarÃ
+Âamba</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation>PerÅembe</translation>
+        <translation>PerÃ
+Âembe</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
@@ -121,17 +125,18 @@
     <message>
         <location filename="../main.cpp" line="37"/>
         <source>Autumn</source>
-        <translation>YelÉn</translation>
+        <translation>YelÃÂn</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
-        <translation>BaÅlÄ±q</translation>
+        <translation>BaÃ
+ÂlÃÂ±q</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
         <source>today</source>
-        <translation>bugün</translation>
+        <translation>bugÃ¼n</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="40"/>
@@ -141,17 +146,17 @@
     <message>
         <location filename="../main.cpp" line="41"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı kahverengi aslan gələn oğlqan uzağından keçdi</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation type="unfinished"/>
+        <translation>Hamısı iş və səhər olmasa, Jack əlifbada qalır</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>To be or not to be, that is the question</source>
-        <translation type="unfinished"/>
+        <translation>Bəllənən və ya bəllənəmən, bu suallıdır</translation>
     </message>
 </context>
 </TS>
