@@ -6,7 +6,7 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>مرحبا بك في التطبيق!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
@@ -16,6 +16,11 @@
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="15"/>
+        <source>test !!!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

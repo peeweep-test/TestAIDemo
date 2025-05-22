@@ -31,6 +31,19 @@ SOURCES += \
 HEADERS += \
         mainwindow.h
 
+# Translation files
+TRANSLATIONS += \
+    translations/TestAIDemo_ar.ts \
+    translations/TestAIDemo_ast.ts \
+    translations/TestAIDemo_az.ts \
+    translations/TestAIDemo_en.ts \
+    translations/TestAIDemo_en_US.ts \
+    translations/TestAIDemo_it.ts \
+    translations/TestAIDemo_ja.ts \
+    translations/TestAIDemo_zh_CN.ts \
+    translations/TestAIDemo_zh_HK.ts \
+    translations/TestAIDemo_zh_TW.ts
+
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
