@@ -9,22 +9,22 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation type="unfinished"/>
+        <translation>è¿æ¯ä¸ä¸ªè­¦åæ¶æ¯ã</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation type="unfinished"/>
+        <translation>è¿æ¯ä¸ä¸ªéè¯¯æ¶æ¯ã</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"/>
+        <translation>ä»å¤©æ¯ä¸ªå¥½æ¥å­</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"/>
+        <translation>我愛你</translation>
     </message>
 </context>
 </TS>
