@@ -8,5 +8,10 @@
         <source>Hello, welcome to the application!</source>
         <translation>Salam, tətbiqə xoş gəlmisiniz!</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="13"/>
+        <source>This is a warning message.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
