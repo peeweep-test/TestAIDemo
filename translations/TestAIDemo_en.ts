@@ -130,5 +130,15 @@
         <source>Winter</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
+        <source>today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="40"/>
+        <source>python</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
