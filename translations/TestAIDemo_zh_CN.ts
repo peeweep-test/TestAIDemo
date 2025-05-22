@@ -4,22 +4,22 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>您好，欢迎使用该应用程序！</translation>
+        <translation>æ¨å¥½ï¼æ¬¢è¿ä½¿ç¨è¯¥åºç¨ç¨åºï¼</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>这是一个警告消息。</translation>
+        <translation>è¿æ¯ä¸ä¸ªè­¦åæ¶æ¯ã</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>这是一个错误消息。</translation>
+        <translation>è¿æ¯ä¸ä¸ªéè¯¯æ¶æ¯ã</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"/>
+        <translation>今天是个好日子</translation>
     </message>
 </context>
 </TS>
