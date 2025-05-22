@@ -4,17 +4,17 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>Salam, tətbiqə xoş gəlmisiniz!</translation>
+        <translation>Salam, tÉtbiqÉ xoÅ gÉlmisiniz!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>Bu bir xüsusi mesajdır.</translation>
+        <translation>Bu bir xÃ¼susi mesajdÄ±r.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>Bu bir xəta mesajıdır.</translation>
+        <translation>Bu bir xÉta mesajÄ±dÄ±r.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="15"/>
@@ -24,34 +24,34 @@
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation>təsdiq</translation>
+        <translation>tÉsdiq</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>Bugün iyi bir gün</translation>
+        <translation>BugÃ¼n iyi bir gÃ¼n</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>Sizni sevirəm</translation>
+        <translation>Sizni sevirÉm</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>Sizni qeyd etməm</translation>
+        <translation>Sizni qeyd etmÉm</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation>Ben iyi bir şəxsim</translation>
+        <translation>Ben iyi bir ÅÉxsim</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation>Ben pahalıq ola bilər</translation>
+        <translation>Ben pahalÄ±q ola bilÉr</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
@@ -81,17 +81,17 @@
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation>Salı</translation>
+        <translation>SalÄ±</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation>Çarşamba</translation>
+        <translation>ÃarÅamba</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation>Perşembe</translation>
+        <translation>PerÅembe</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
@@ -121,12 +121,22 @@
     <message>
         <location filename="../main.cpp" line="37"/>
         <source>Autumn</source>
-        <translation>Yelən</translation>
+        <translation>YelÉn</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
-        <translation>Başlıq</translation>
+        <translation>BaÅlÄ±q</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
+        <source>today</source>
+        <translation>bugün</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="40"/>
+        <source>python</source>
+        <translation>python</translation>
     </message>
 </context>
 </TS>

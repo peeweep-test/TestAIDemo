@@ -36,9 +36,8 @@ int main(int argc, char *argv[])
     QString summer = QObject::tr("Summer");
     QString autumn = QObject::tr("Autumn");
     QString winter = QObject::tr("Winter");
-    QString a = QObject::tr("today");
-    QString b = QObject::tr("python");
-
+    QString today = QObject::tr("today");
+    QString python = QObject::tr("python");
 
     
 

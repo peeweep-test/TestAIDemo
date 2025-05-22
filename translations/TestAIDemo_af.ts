@@ -126,7 +126,17 @@
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
-        <translation>Wintêr</translation>
+        <translation>WintÃªr</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
+        <source>today</source>
+        <translation>vandag</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="40"/>
+        <source>python</source>
+        <translation>python</translation>
     </message>
 </context>
 </TS>
