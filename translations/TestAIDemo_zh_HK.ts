@@ -4,54 +4,54 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>你好，欢迎使用本应用！</translation>
+        <translation>Ã¤Â½Â Ã¥Â¥Â½Ã¯Â¼ÂÃ¦Â¬Â¢Ã¨Â¿ÂÃ¤Â½Â¿Ã§ÂÂ¨Ã¦ÂÂ¬Ã¥ÂºÂÃ§ÂÂ¨Ã¯Â¼Â</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>这是一个警告信息。</translation>
+        <translation>Ã¨Â¿ÂÃ¦ÂÂ¯Ã¤Â¸ÂÃ¤Â¸ÂªÃ¨Â­Â¦Ã¥ÂÂÃ¤Â¿Â¡Ã¦ÂÂ¯Ã£ÂÂ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>这是一个错误信息。</translation>
+        <translation>Ã¨Â¿ÂÃ¦ÂÂ¯Ã¤Â¸ÂÃ¤Â¸ÂªÃ©ÂÂÃ¨Â¯Â¯Ã¤Â¿Â¡Ã¦ÂÂ¯Ã£ÂÂ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="15"/>
         <source>test !!!</source>
-        <translation>测试 !!!</translation>
+        <translation>Ã¦ÂµÂÃ¨Â¯Â !!!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation>确定</translation>
+        <translation>Ã§Â¡Â®Ã¥Â®Â</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>今天是个好日子</translation>
+        <translation>Ã¤Â»ÂÃ¥Â¤Â©Ã¦ÂÂ¯Ã¤Â¸ÂªÃ¥Â¥Â½Ã¦ÂÂ¥Ã¥Â­Â</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>我爱你</translation>
+        <translation>Ã¦ÂÂÃ§ÂÂ±Ã¤Â½Â </translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>我恨你</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂ¨Ã¤Â½Â </translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation>我是一个好人</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂ¯Ã¤Â¸ÂÃ¤Â¸ÂªÃ¥Â¥Â½Ã¤ÂºÂº</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation>我是一个坏人</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂ¯Ã¤Â¸ÂÃ¤Â¸ÂªÃ¥ÂÂÃ¤ÂºÂº</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
@@ -76,62 +76,63 @@
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Monday</source>
-        <translation>星期一</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¤Â¸Â</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation>星期二</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¤ÂºÂ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation>星期三</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¤Â¸Â</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation>星期四</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¥ÂÂ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Friday</source>
-        <translation>星期五</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¤ÂºÂ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation>星期六</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¥
+Â­</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation>星期日</translation>
+        <translation>Ã¦ÂÂÃ¦ÂÂÃ¦ÂÂ¥</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="35"/>
         <source>Spring</source>
-        <translation>春天</translation>
+        <translation>Ã¦ÂÂ¥Ã¥Â¤Â©</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="36"/>
         <source>Summer</source>
-        <translation>夏天</translation>
+        <translation>Ã¥Â¤ÂÃ¥Â¤Â©</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="37"/>
         <source>Autumn</source>
-        <translation>秋天</translation>
+        <translation>Ã§Â§ÂÃ¥Â¤Â©</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
-        <translation>冬天</translation>
+        <translation>Ã¥ÂÂ¬Ã¥Â¤Â©</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
         <source>today</source>
-        <translation>今天</translation>
+        <translation>ä»å¤©</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="40"/>
@@ -141,17 +142,17 @@
     <message>
         <location filename="../main.cpp" line="41"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation type="unfinished"/>
+        <translation>快速的棕色狐狸跳过了懒狗</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation type="unfinished"/>
+        <translation>只工作不玩耍，杰克变得 dull</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>To be or not to be, that is the question</source>
-        <translation type="unfinished"/>
+        <translation>生存还是毁灭，这是个问题</translation>
     </message>
 </context>
 </TS>
