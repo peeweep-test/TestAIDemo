@@ -76,37 +76,37 @@
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>الإثنين</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>الثلاثاء</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>الأربعاء</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>الخميس</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>الجمعة</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>السبت</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>السبت</translation>
     </message>
 </context>
 </TS>
