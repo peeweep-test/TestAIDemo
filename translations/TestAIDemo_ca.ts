@@ -111,22 +111,22 @@
     <message>
         <location filename="../main.cpp" line="35"/>
         <source>Spring</source>
-        <translation type="unfinished"/>
+        <translation>Primavera</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="36"/>
         <source>Summer</source>
-        <translation type="unfinished"/>
+        <translation>Estiu</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="37"/>
         <source>Autumn</source>
-        <translation type="unfinished"/>
+        <translation>Tardor</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
-        <translation type="unfinished"/>
+        <translation>Vall</translation>
     </message>
 </context>
 </TS>
