@@ -38,6 +38,9 @@ int main(int argc, char *argv[])
     QString winter = QObject::tr("Winter");
     QString today = QObject::tr("today");
     QString python = QObject::tr("python");
+    QString text1 = QObject::tr("The quick brown fox jumps over the lazy dog");
+    QString text2 = QObject::tr("All work and no play makes Jack a dull boy");
+    QString text3 = QObject::tr("To be or not to be, that is the question");
 
     
 
