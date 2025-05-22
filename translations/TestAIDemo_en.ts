@@ -18,15 +18,5 @@
         <source>This is an error message.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../main.cpp" line="17"/>
-        <source>Today is a good day</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../main.cpp" line="18"/>
-        <source>I love you</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>
