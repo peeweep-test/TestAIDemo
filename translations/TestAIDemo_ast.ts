@@ -9,104 +9,104 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation type="unfinished"/>
+        <translation>Esta ye un mensaxe de avís.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation type="unfinished"/>
+        <translation>Esta ye un mensaxe de error.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="15"/>
         <source>test !!!</source>
-        <translation type="unfinished"/>
+        <translation>test !!!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="16"/>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>bien</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"/>
+        <translation>Hoxe ye un día ben.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"/>
+        <translation>Te amo</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation type="unfinished"/>
+        <translation>Te odio</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <location filename="../main.cpp" line="22"/>
         <source>I am a good person</source>
-        <translation type="unfinished"/>
+        <translation>Soy un persoa ben.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a bad person</source>
-        <translation type="unfinished"/>
+        <translation>Soy un persoa mal.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="24"/>
         <source>我是一个肉鼠</source>
-        <translation type="unfinished"/>
+        <translation>Soy un roedor de carne.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="25"/>
         <source>你是一个瘦猫</source>
-        <translation type="unfinished"/>
+        <translation>Eres un gato flaco</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>今天不吃晚饭</source>
-        <translation type="unfinished"/>
+        <translation>Hoxe non come ceno</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>你是个竹鼠</source>
-        <translation type="unfinished"/>
+        <translation>Eres un marmota</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Llunes</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Martes</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Miércoles</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Jueves</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Viernes</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Sábado</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Domingo</translation>
     </message>
 </context>
 </TS>
