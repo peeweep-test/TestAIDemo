@@ -9,17 +9,17 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>è¿æ¯ä¸ä¸ªè­¦åæ¶æ¯ã</translation>
+        <translation>這是一個警告消息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>è¿æ¯ä¸ä¸ªéè¯¯æ¶æ¯ã</translation>
+        <translation>這是一個錯誤消息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>ä»å¤©æ¯ä¸ªå¥½æ¥å­</translation>
+        <translation>今天是個好日子</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
