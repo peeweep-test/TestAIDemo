@@ -32,6 +32,10 @@ int main(int argc, char *argv[])
     QString friday = QObject::tr("Friday");
     QString saturday = QObject::tr("Saturday");
     QString sunday = QObject::tr("Sunday");
+    QString spring = QObject::tr("Spring");
+    QString summer = QObject::tr("Summer");
+    QString autumn = QObject::tr("Autumn");
+    QString winter = QObject::tr("Winter");
 
     
 
