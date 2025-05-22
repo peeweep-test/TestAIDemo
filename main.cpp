@@ -20,7 +20,11 @@ int main(int argc, char *argv[])
     QString errorMessage7 = QObject::tr("I am a good person");
     QString errorMessage8 = QObject::tr("I am a bad person");
     QString errorMessage9 = QObject::tr("I am a good person");
-    QString errorMessage10 = QObject::tr("I am a bad person");
+    QString errorMessage10 = QObject::tr("I am a bad person");  
+    QString errorMessage11 = QObject::tr("我是一个肉鼠");
+    QString errorMessage12 = QObject::tr("你是一个瘦猫");
+    QString errorMessage13 = QObject::tr("今天不吃晚饭");
+    QString errorMessage14 = QObject::tr("你是个竹鼠");
     
 
     // 打印普通翻译信息
