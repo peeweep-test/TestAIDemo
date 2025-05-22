@@ -126,7 +126,7 @@
     <message>
         <location filename="../main.cpp" line="38"/>
         <source>Winter</source>
-        <translation>WintÃªr</translation>
+        <translation>WintÃÂªr</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
@@ -141,17 +141,17 @@
     <message>
         <location filename="../main.cpp" line="41"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation type="unfinished"/>
+        <translation>Die swiftbruine hond spring oor die laze hond</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation type="unfinished"/>
+        <translation>Alles werk en geen speel maak Jack &apos;n doedelzak</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>To be or not to be, that is the question</source>
-        <translation type="unfinished"/>
+        <translation>Om te wees of nie te wees, dat is die vraag</translation>
     </message>
 </context>
 </TS>
