@@ -6,6 +6,11 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
+        <translation>Hello, welcome to the application!</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="13"/>
+        <source>This is a warning message.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
