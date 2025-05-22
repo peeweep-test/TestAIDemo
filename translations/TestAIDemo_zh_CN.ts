@@ -4,27 +4,27 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>你好，欢迎使用本应用！</translation>
+        <translation>ä½ å¥½ï¼æ¬¢è¿ä½¿ç¨æ¬åºç¨ï¼</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>这是一个警告消息。</translation>
+        <translation>è¿æ¯ä¸ä¸ªè­¦åæ¶æ¯ã</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>这是一个错误消息。</translation>
+        <translation>è¿æ¯ä¸ä¸ªéè¯¯æ¶æ¯ã</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>今天是个好日子</translation>
+        <translation>ä»å¤©æ¯ä¸ªå¥½æ¥å­</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"/>
+        <translation>我爱你</translation>
     </message>
 </context>
 </TS>
