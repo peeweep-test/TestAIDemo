@@ -56,22 +56,22 @@
     <message>
         <location filename="../main.cpp" line="24"/>
         <source>我是一个肉鼠</source>
-        <translation type="unfinished"/>
+        <translation>Yeni qalpqıqым</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="25"/>
         <source>你是一个瘦猫</source>
-        <translation type="unfinished"/>
+        <translation>Sıvı qaraqıqы</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>今天不吃晚饭</source>
-        <translation type="unfinished"/>
+        <translation>Bu gün həmişə quruq qaz yemək</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>你是个竹鼠</source>
-        <translation type="unfinished"/>
+        <translation>Siz bir bambus qalpqıqы</translation>
     </message>
 </context>
 </TS>
