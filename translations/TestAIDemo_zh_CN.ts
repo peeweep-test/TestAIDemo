@@ -9,7 +9,7 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>è¿æ¯ä¸ä¸ªè­¦åæ¶æ¯ã</translation>
+        <translation>这是一个警告消息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
