@@ -4,12 +4,12 @@
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>¡Hola, bienveníu a l&apos;aplicación!</translation>
+        <translation>Â¡Hola, bienvenÃ­u a l&apos;aplicaciÃ³n!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>Esta ye un mensaxe de avís.</translation>
+        <translation>Esta ye un mensaxe de avÃ­s.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>Hoxe ye un día ben.</translation>
+        <translation>Hoxe ye un dÃ­a ben.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation>Miércoles</translation>
+        <translation>MiÃ©rcoles</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation>Sábado</translation>
+        <translation>SÃ¡bado</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../main.cpp" line="37"/>
         <source>Autumn</source>
-        <translation>Otoño</translation>
+        <translation>OtoÃ±o</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="38"/>
@@ -131,12 +131,12 @@
     <message>
         <location filename="../main.cpp" line="39"/>
         <source>today</source>
-        <translation type="unfinished"/>
+        <translation>hoxe</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="40"/>
         <source>python</source>
-        <translation type="unfinished"/>
+        <translation>python</translation>
     </message>
 </context>
 </TS>
