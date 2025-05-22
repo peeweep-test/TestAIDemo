@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
     // QString errorMessage3 = QObject::tr("ok");
     QString errorMessage4 = QObject::tr("Today is a good day");
     QString errorMessage5 = QObject::tr("I love you");
-    // QString errorMessage6 = QObject::tr("I hate you");
+    QString errorMessage6 = QObject::tr("I hate you");
     // QString errorMessage7 = QObject::tr("I am a good person");
     // QString errorMessage8 = QObject::tr("I am a bad person");
     // QString errorMessage9 = QObject::tr("I am a good person");
