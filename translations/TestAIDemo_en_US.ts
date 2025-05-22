@@ -76,37 +76,37 @@
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Monday</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Tuesday</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Wednesday</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Thursday</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Friday</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="33"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Saturday</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="34"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Sunday</translation>
     </message>
 </context>
 </TS>
