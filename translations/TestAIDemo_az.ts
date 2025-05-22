@@ -11,5 +11,10 @@
         <source>This is a warning message.</source>
         <translation>Bu bir warning mesajıdır.</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="14"/>
+        <source>This is an error message.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
