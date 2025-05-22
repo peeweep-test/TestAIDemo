@@ -23,5 +23,10 @@
         <source>test !!!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="16"/>
+        <source>ok</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

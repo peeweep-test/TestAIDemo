@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
     QString warningMessage = QObject::tr("This is a warning message.");
     QString errorMessage = QObject::tr("This is an error message.");
     QString errorMessage2 = QObject::tr("test !!!");
+    QString errorMessage3 = QObject::tr("ok");
 
     // 打印普通翻译信息
     qWarning() << greeting;

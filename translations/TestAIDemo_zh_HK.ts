@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_HK">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_HK">
 <context>
     <name>QObject</name>
     <message>
@@ -20,6 +22,11 @@
         <location filename="../main.cpp" line="15"/>
         <source>test !!!</source>
         <translation>測試 !!!</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="16"/>
+        <source>ok</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

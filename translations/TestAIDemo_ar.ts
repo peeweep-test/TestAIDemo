@@ -1,10 +1,12 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ar">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ar">
 <context>
     <name>QObject</name>
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>مرحبًا، ترحيباً ب��的应用程序！</translation>
+        <translation>مرحبًا، مرحباً بك في التطبيق!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
@@ -20,6 +22,11 @@
         <location filename="../main.cpp" line="15"/>
         <source>test !!!</source>
         <translation>اختبار!!!.</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="16"/>
+        <source>ok</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
