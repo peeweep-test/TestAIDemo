@@ -5,7 +5,7 @@ mkdir -p translations
 
 # List of languages
 LANGUAGES=(
-     "en" "zh_CN" "zh_TW" "zh_HK" 
+   "en"  #  "en" "zh_CN" "zh_TW" "zh_HK" 
 )
 
 # Generate .ts files for each language
