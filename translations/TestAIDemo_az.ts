@@ -47,5 +47,20 @@
         <source>I am a bad person</source>
         <translation>Yarim şəhidim</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="42"/>
+        <source>The quick brown fox jumps over the lazy dog</source>
+        <translation>Hızlı sarı köpeğ aziz kedi over atı verdi</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="43"/>
+        <source>All work and no play makes Jack a dull boy</source>
+        <translation>Hamısı iş və səhra olmasa Jack ələfənə olur</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="44"/>
+        <source>To be or not to be, that is the question</source>
+        <translation>Bu olmaq və ya olmamaq, bu suallərdən biri</translation>
+    </message>
 </context>
 </TS>
