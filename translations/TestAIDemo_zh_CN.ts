@@ -9,32 +9,32 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation type="unfinished"/>
+        <translation>这是一个警告信息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation type="unfinished"/>
+        <translation>这是一个错误信息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"/>
+        <translation>今天是个好日子</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"/>
+        <translation>我爱你</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation type="unfinished"/>
+        <translation>我恨你</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
-        <translation type="unfinished"/>
+        <translation>软件开发人员使用鼠标控制屏幕上的光标，远水可以救近火</translation>
     </message>
 </context>
 </TS>
