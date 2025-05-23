@@ -22,17 +22,14 @@ int main(int argc, char *argv[])
     QString errorMessage8 = QObject::tr("I am a bad person");
     QString errorMessage9 = QObject::tr("I am a good person");
     // QString errorMessage10 = QObject::tr("I am a bad person");  
-    // QString errorMessage11 = QObject::tr("我是一个肉鼠");
-    // QString errorMessage12 = QObject::tr("你是一个瘦猫");
-    // QString errorMessage13 = QObject::tr("今天不吃晚饭");
-    // QString errorMessage14 = QObject::tr("你是个竹鼠");
-    // QString monday = QObject::tr("Monday");
-    // QString tuesday = QObject::tr("Tuesday");
-    // QString wednesday = QObject::tr("Wednesday");
-    // QString thursday = QObject::tr("Thursday");
-    // QString friday = QObject::tr("Friday");
-    // QString saturday = QObject::tr("Saturday");
-    // QString sunday = QObject::tr("Sunday");
+
+    QString monday = QObject::tr("Monday");
+    QString tuesday = QObject::tr("Tuesday");
+    QString wednesday = QObject::tr("Wednesday");
+    QString thursday = QObject::tr("Thursday");
+    QString friday = QObject::tr("Friday");
+    QString saturday = QObject::tr("Saturday");
+    QString sunday = QObject::tr("Sunday");
     // QString spring = QObject::tr("Spring");
     // QString summer = QObject::tr("Summer");
     // QString autumn = QObject::tr("Autumn");
