@@ -31,5 +31,10 @@
         <source>I hate you</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <location filename="../main.cpp" line="20"/>
+        <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
