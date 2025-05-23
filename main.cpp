@@ -42,6 +42,10 @@ int main(int argc, char *argv[])
     QString text1 = QObject::tr("The quick brown fox jumps over the lazy dog");
     QString text2 = QObject::tr("All work and no play makes Jack a dull boy");
     QString text3 = QObject::tr("To be or not to be, that is the question");
+    QString spring = QObject::tr("Spring");
+    QString summer = QObject::tr("Summer");
+    QString autumn = QObject::tr("Autumn");
+    QString winter = QObject::tr("Winter");
 
     
 
