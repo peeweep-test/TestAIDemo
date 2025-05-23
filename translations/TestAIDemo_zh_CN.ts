@@ -47,5 +47,20 @@
         <source>I am a bad person</source>
         <translation>我是一个坏人</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="42"/>
+        <source>The quick brown fox jumps over the lazy dog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="43"/>
+        <source>All work and no play makes Jack a dull boy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="44"/>
+        <source>To be or not to be, that is the question</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
