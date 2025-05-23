@@ -18,9 +18,9 @@ int main(int argc, char *argv[])
     QString errorMessage5 = QObject::tr("I love you");
     QString errorMessage6 = QObject::tr("I hate you");
     QString mouseOperation = QObject::tr("Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near");
-    // QString errorMessage7 = QObject::tr("I am a good person");
-    // QString errorMessage8 = QObject::tr("I am a bad person");
-    // QString errorMessage9 = QObject::tr("I am a good person");
+    QString errorMessage7 = QObject::tr("I am a good person");
+    QString errorMessage8 = QObject::tr("I am a bad person");
+    QString errorMessage9 = QObject::tr("I am a good person");
     // QString errorMessage10 = QObject::tr("I am a bad person");  
     // QString errorMessage11 = QObject::tr("我是一个肉鼠");
     // QString errorMessage12 = QObject::tr("你是一个瘦猫");
