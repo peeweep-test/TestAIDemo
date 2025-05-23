@@ -48,37 +48,72 @@
         <translation>Yarim şəhidim</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="42"/>
+        <location filename="../main.cpp" line="26"/>
+        <source>Monday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="27"/>
+        <source>Tuesday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="28"/>
+        <source>Wednesday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="29"/>
+        <source>Thursday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="30"/>
+        <source>Friday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="31"/>
+        <source>Saturday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="32"/>
+        <source>Sunday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
         <source>The quick brown fox jumps over the lazy dog</source>
         <translation>Hızlı sarı köpeğ aziz kedi over atı verdi</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="43"/>
+        <location filename="../main.cpp" line="40"/>
         <source>All work and no play makes Jack a dull boy</source>
         <translation>Hamısı iş və səhra olmasa Jack ələfənə olur</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="44"/>
+        <location filename="../main.cpp" line="41"/>
         <source>To be or not to be, that is the question</source>
         <translation>Bu olmaq və ya olmamaq, bu suallərdən biri</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="45"/>
+        <location filename="../main.cpp" line="42"/>
         <source>Spring</source>
         <translation>Yaz</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="46"/>
+        <location filename="../main.cpp" line="43"/>
         <source>Summer</source>
         <translation>Yaz</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="47"/>
+        <location filename="../main.cpp" line="44"/>
         <source>Autumn</source>
         <translation>Günəllik</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="48"/>
+        <location filename="../main.cpp" line="45"/>
         <source>Winter</source>
         <translation>Qış</translation>
     </message>
