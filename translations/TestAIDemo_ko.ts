@@ -1,121 +1,121 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_HK">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ko">
 <context>
     <name>QObject</name>
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>你好，歡迎使用本應用！</translation>
+        <translation>안녕하세요, 애플리케이션에 오신 것을 환영합니다!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>這是一個警告信息。</translation>
+        <translation>이것은 경고 메시지입니다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>這是一個錯誤信息。</translation>
+        <translation>이것은 오류 메시지입니다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>今天是個好日子</translation>
+        <translation>오늘은 좋은 날입니다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>我愛你</translation>
+        <translation>나는 너를 사랑한다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>我恨你</translation>
+        <translation>나는 너를 증오한다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
-        <translation>軟件開發人員使用鼠標控制屏幕上的光標，遠水可以救近火</translation>
+        <translation>소프트웨어 개발자는 화면에서 커서를 제어하기 위해 마우스를 사용하며, 먼 곳에 있는 심장의 친구는 먼 땅을 가깝게 만든다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a good person</source>
-        <translation>我是一個好人</translation>
+        <translation>나는 좋은 사람이다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="22"/>
         <source>I am a bad person</source>
-        <translation>我是一個壞人</translation>
+        <translation>나는 나쁜 사람이다.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>Monday</source>
-        <translation>星期一</translation>
+        <translation>월요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>Tuesday</source>
-        <translation>星期二</translation>
+        <translation>화요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Wednesday</source>
-        <translation>星期三</translation>
+        <translation>수요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Thursday</source>
-        <translation>星期四</translation>
+        <translation>목요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Friday</source>
-        <translation>星期五</translation>
+        <translation>금요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Saturday</source>
-        <translation>星期六</translation>
+        <translation>토요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Sunday</source>
-        <translation>星期日</translation>
+        <translation>일요일</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation>快速的棕色狐狸跳過了懶惰的狗</translation>
+        <translation>빠른 갈색 여우는 게으른 개를 넘었습니다</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="40"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation>只工作不玩耍，聰明孩子也變傻</translation>
+        <translation>일만 하고 놀이 없으면 앤은 지루한 아이가 된다</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="41"/>
         <source>To be or not to be, that is the question</source>
-        <translation>生存還是毀滅，這是個問題</translation>
+        <translation>존재하거나 존재하지 않을 것인가, 이것이 문제다</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>Spring</source>
-        <translation>春天</translation>
+        <translation>봄</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>Summer</source>
-        <translation>夏天</translation>
+        <translation>여름</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="44"/>
         <source>Autumn</source>
-        <translation>秋天</translation>
+        <translation>가을</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="45"/>
         <source>Winter</source>
-        <translation>冬天</translation>
+        <translation>겨울</translation>
     </message>
 </context>
 </TS>

@@ -1,121 +1,121 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_HK">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ne">
 <context>
     <name>QObject</name>
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>你好，歡迎使用本應用！</translation>
+        <translation>नमस्ते, अनुप्रयोग में स्वागत है!!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>這是一個警告信息。</translation>
+        <translation>यो अनुमान लेने का संदेश हो.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>這是一個錯誤信息。</translation>
+        <translation>यो त्रुटि संदेश हो.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>今天是個好日子</translation>
+        <translation>आज एक अच्छा दिन हो</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>我愛你</translation>
+        <translation>तपस्यार्थी तपस्यार्थी तपस्यार्थी तपस्यार्थी मलाई पसिव्ह गर्न चाहिन्छु</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>我恨你</translation>
+        <translation>तपस्यार्थी तपस्यार्थी तपस्यार्थी तपस्यार्थी मलाई नपसिव्ह गर्न चाहिन्छु</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
-        <translation>軟件開發人員使用鼠標控制屏幕上的光標，遠水可以救近火</translation>
+        <translation>प्रограм्मिंग विकासकर्ताहरू स्क्रीनमा कॉर्सर सचावाली गर्न माउस उपयोग गर्दछन, दूरमेट्री देशको मित्र दूरमेट्री देश को नजिक ले आयो</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a good person</source>
-        <translation>我是一個好人</translation>
+        <translation>मले एउटा अच्छो व्यक्ति हो</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="22"/>
         <source>I am a bad person</source>
-        <translation>我是一個壞人</translation>
+        <translation>मले एउटा खराबो व्यक्ति हो</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>Monday</source>
-        <translation>星期一</translation>
+        <translation>मंगलबार</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>Tuesday</source>
-        <translation>星期二</translation>
+        <translation>सोमवार</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Wednesday</source>
-        <translation>星期三</translation>
+        <translation>बुधवार</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Thursday</source>
-        <translation>星期四</translation>
+        <translation>बीवार</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Friday</source>
-        <translation>星期五</translation>
+        <translation>पार्श्वा</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Saturday</source>
-        <translation>星期六</translation>
+        <translation>सातवार</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Sunday</source>
-        <translation>星期日</translation>
+        <translation>वार्षिक</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation>快速的棕色狐狸跳過了懶惰的狗</translation>
+        <translation>जल्दी गहरा फुक्स लाइज डोग भविष्यावर छूँदै छ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="40"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation>只工作不玩耍，聰明孩子也變傻</translation>
+        <translation>सबै काम र बिनै खेल जाकेको जाक एक गरीब बालक हुन्छ</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="41"/>
         <source>To be or not to be, that is the question</source>
-        <translation>生存還是毀滅，這是個問題</translation>
+        <translation>बस्तो छ या न छ, यो शैक्षिक व्यवस्था हो</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>Spring</source>
-        <translation>春天</translation>
+        <translation>प्रविष्टि</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>Summer</source>
-        <translation>夏天</translation>
+        <translation>सुमित्रा</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="44"/>
         <source>Autumn</source>
-        <translation>秋天</translation>
+        <translation>शिखार</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="45"/>
         <source>Winter</source>
-        <translation>冬天</translation>
+        <translation>शिन्दौ</translation>
     </message>
 </context>
 </TS>
