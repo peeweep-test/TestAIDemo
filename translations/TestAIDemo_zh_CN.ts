@@ -48,37 +48,72 @@
         <translation>我是一个坏人</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="42"/>
+        <location filename="../main.cpp" line="26"/>
+        <source>Monday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="27"/>
+        <source>Tuesday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="28"/>
+        <source>Wednesday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="29"/>
+        <source>Thursday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="30"/>
+        <source>Friday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="31"/>
+        <source>Saturday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="32"/>
+        <source>Sunday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
         <source>The quick brown fox jumps over the lazy dog</source>
         <translation>快速的棕色狐狸跳过了懒惰的狗</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="43"/>
+        <location filename="../main.cpp" line="40"/>
         <source>All work and no play makes Jack a dull boy</source>
         <translation>只工作不玩耍，聪明孩子也变傻</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="44"/>
+        <location filename="../main.cpp" line="41"/>
         <source>To be or not to be, that is the question</source>
         <translation>生存还是毁灭，这是个问题</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="45"/>
+        <location filename="../main.cpp" line="42"/>
         <source>Spring</source>
         <translation>春天</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="46"/>
+        <location filename="../main.cpp" line="43"/>
         <source>Summer</source>
         <translation>夏天</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="47"/>
+        <location filename="../main.cpp" line="44"/>
         <source>Autumn</source>
         <translation>秋天</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="48"/>
+        <location filename="../main.cpp" line="45"/>
         <source>Winter</source>
         <translation>冬天</translation>
     </message>
