@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_CN">
 <context>
     <name>QObject</name>
     <message>
@@ -31,7 +29,7 @@
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation type="unfinished"></translation>
+        <translation>我讨厌你</translation>
     </message>
 </context>
 </TS>
