@@ -50,37 +50,37 @@
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Ponedjeljak</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Utorak</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Srijeda</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Četvrtak</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Petak</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Subota</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Nedjelja</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
