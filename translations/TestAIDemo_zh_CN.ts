@@ -50,37 +50,37 @@
     <message>
         <location filename="../main.cpp" line="26"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>星期一</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="27"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>星期二</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="28"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>星期三</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="29"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>星期四</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="30"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>星期五</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="31"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>星期六</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="32"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>星期日</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="39"/>
