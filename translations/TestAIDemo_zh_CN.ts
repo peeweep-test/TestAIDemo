@@ -11,22 +11,22 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>这是一个警告消息。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>这是一个错误消息。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>今天是个好日子</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>我爱你</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
