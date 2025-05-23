@@ -29,7 +29,7 @@
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>我讨厌你</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
