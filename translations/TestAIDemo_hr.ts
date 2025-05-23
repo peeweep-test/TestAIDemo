@@ -1,86 +1,86 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_HK">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="hr">
 <context>
     <name>QObject</name>
     <message>
         <location filename="../main.cpp" line="12"/>
         <source>Hello, welcome to the application!</source>
-        <translation>你好，歡迎使用本應用！</translation>
+        <translation>Pozdrav, dobrodošli u aplikaciju!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation>這是一個警告信息。</translation>
+        <translation>Ovdje je upozorenje.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation>這是一個錯誤信息。</translation>
+        <translation>Ovdje je greška.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation>今天是個好日子</translation>
+        <translation>Danas je dobar dan</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation>我愛你</translation>
+        <translation>Srećno</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation>我恨你</translation>
+        <translation>Nisam slobodan</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
-        <translation>軟件開發人員使用鼠標控制屏幕上的光標，遠水可以救近火</translation>
+        <translation>Softverski programeri koriste miš za kontrolu pokazivača na ekranu, bliski prijatelj daje udaljenom zemlji blaginju</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a good person</source>
-        <translation>我是一個好人</translation>
+        <translation>Ja sam dobar ljudac</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="22"/>
         <source>I am a bad person</source>
-        <translation>我是一個壞人</translation>
+        <translation>Ja sam loš ljudac</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation>快速的棕色狐狸跳過了懶惰的狗</translation>
+        <translation>Brza šarencija je skacuna preko ljutog psa</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation>只工作不玩耍，聰明孩子也變傻</translation>
+        <translation>Sveučišće bez zabave čini Jacka zahvalućenim</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="44"/>
         <source>To be or not to be, that is the question</source>
-        <translation>生存還是毀滅，這是個問題</translation>
+        <translation>Biti ili ne biti, to je pitanje</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="45"/>
         <source>Spring</source>
-        <translation>春天</translation>
+        <translation>Vrijeme</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="46"/>
         <source>Summer</source>
-        <translation>夏天</translation>
+        <translation>Ljetno vrijeme</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="47"/>
         <source>Autumn</source>
-        <translation>秋天</translation>
+        <translation>Jesen</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="48"/>
         <source>Winter</source>
-        <translation>冬天</translation>
+        <translation>Zima</translation>
     </message>
 </context>
 </TS>

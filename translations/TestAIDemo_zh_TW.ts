@@ -62,5 +62,25 @@
         <source>To be or not to be, that is the question</source>
         <translation>生存還是毀滅，這是個問題</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="45"/>
+        <source>Spring</source>
+        <translation>春天</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="46"/>
+        <source>Summer</source>
+        <translation>夏天</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="47"/>
+        <source>Autumn</source>
+        <translation>秋天</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="48"/>
+        <source>Winter</source>
+        <translation>冬天</translation>
+    </message>
 </context>
 </TS>

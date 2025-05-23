@@ -62,5 +62,25 @@
         <source>To be or not to be, that is the question</source>
         <translation>Bu olmaq və ya olmamaq, bu suallərdən biri</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="45"/>
+        <source>Spring</source>
+        <translation>Yaz</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="46"/>
+        <source>Summer</source>
+        <translation>Yaz</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="47"/>
+        <source>Autumn</source>
+        <translation>Günəllik</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="48"/>
+        <source>Winter</source>
+        <translation>Qış</translation>
+    </message>
 </context>
 </TS>
