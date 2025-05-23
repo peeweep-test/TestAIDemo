@@ -50,17 +50,17 @@
     <message>
         <location filename="../main.cpp" line="42"/>
         <source>The quick brown fox jumps over the lazy dog</source>
-        <translation type="unfinished"/>
+        <translation>快速的棕色狐狸跳过了懒惰的狗</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="43"/>
         <source>All work and no play makes Jack a dull boy</source>
-        <translation type="unfinished"/>
+        <translation>只工作不玩耍，聪明孩子也变傻</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="44"/>
         <source>To be or not to be, that is the question</source>
-        <translation type="unfinished"/>
+        <translation>生存还是毁灭，这是个问题</translation>
     </message>
 </context>
 </TS>
