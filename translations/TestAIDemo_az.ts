@@ -36,5 +36,16 @@
         <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
         <translation>Poliqaf məhsullarında işçilər kursorun səkkizdən istifadə edirlər, uzaktan qarlı bir qızın qısa bir yerə getirir</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="21"/>
+        <location filename="../main.cpp" line="23"/>
+        <source>I am a good person</source>
+        <translation>İyimşik bir şəhidim</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="22"/>
+        <source>I am a bad person</source>
+        <translation>Yarim şəhidim</translation>
+    </message>
 </context>
 </TS>

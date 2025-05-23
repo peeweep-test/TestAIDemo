@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_HK">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_HK">
 <context>
     <name>QObject</name>
     <message>
@@ -11,43 +9,43 @@
     <message>
         <location filename="../main.cpp" line="13"/>
         <source>This is a warning message.</source>
-        <translation type="unfinished"></translation>
+        <translation>這是一個警告信息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="14"/>
         <source>This is an error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>這是一個錯誤信息。</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="17"/>
         <source>Today is a good day</source>
-        <translation type="unfinished"></translation>
+        <translation>今天是個好日子</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="18"/>
         <source>I love you</source>
-        <translation type="unfinished"></translation>
+        <translation>我愛你</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="19"/>
         <source>I hate you</source>
-        <translation type="unfinished"></translation>
+        <translation>我恨你</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="20"/>
         <source>Software developers use mouse to control cursor on screen, a bosom friend afar brings a distant land near</source>
-        <translation type="unfinished"></translation>
+        <translation>軟件開發人員使用鼠標控制屏幕上的光標，遠水可以救近火</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="21"/>
         <location filename="../main.cpp" line="23"/>
         <source>I am a good person</source>
-        <translation type="unfinished"></translation>
+        <translation>我是一個好人</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="22"/>
         <source>I am a bad person</source>
-        <translation type="unfinished"></translation>
+        <translation>我是一個壞人</translation>
     </message>
 </context>
 </TS>
