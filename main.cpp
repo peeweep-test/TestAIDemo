@@ -43,6 +43,13 @@ int main(int argc, char *argv[])
     QString summer = QObject::tr("Summer");
     QString autumn = QObject::tr("Autumn");
     QString winter = QObject::tr("Winter");
+    QString text4 = QObject::tr("good morning");
+    QString text5 = QObject::tr("good afternoon");
+    QString text6 = QObject::tr("good evening");
+    QString text7 = QObject::tr("good night");
+    // QString text8 = QObject::tr("goodbye");
+    // QString text9 = QObject::tr("hello");
+    // QString text10 = QObject::tr("hi");
 
     
 
