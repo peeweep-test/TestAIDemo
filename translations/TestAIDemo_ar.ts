@@ -117,5 +117,25 @@
         <source>Winter</source>
         <translation>شتاء</translation>
     </message>
+    <message>
+        <location filename="../main.cpp" line="46"/>
+        <source>good morning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="47"/>
+        <source>good afternoon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="48"/>
+        <source>good evening</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="49"/>
+        <source>good night</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
