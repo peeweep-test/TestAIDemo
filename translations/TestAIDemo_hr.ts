@@ -48,37 +48,72 @@
         <translation>Ja sam loš ljudac</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="42"/>
+        <location filename="../main.cpp" line="26"/>
+        <source>Monday</source>
+        <translation>Ponedjeljak</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="27"/>
+        <source>Tuesday</source>
+        <translation>Utorak</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="28"/>
+        <source>Wednesday</source>
+        <translation>Srijeda</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="29"/>
+        <source>Thursday</source>
+        <translation>Četvrtak</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="30"/>
+        <source>Friday</source>
+        <translation>Petak</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="31"/>
+        <source>Saturday</source>
+        <translation>Subota</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="32"/>
+        <source>Sunday</source>
+        <translation>Nedjelja</translation>
+    </message>
+    <message>
+        <location filename="../main.cpp" line="39"/>
         <source>The quick brown fox jumps over the lazy dog</source>
         <translation>Brza šarencija je skacuna preko ljutog psa</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="43"/>
+        <location filename="../main.cpp" line="40"/>
         <source>All work and no play makes Jack a dull boy</source>
         <translation>Sveučišće bez zabave čini Jacka zahvalućenim</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="44"/>
+        <location filename="../main.cpp" line="41"/>
         <source>To be or not to be, that is the question</source>
         <translation>Biti ili ne biti, to je pitanje</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="45"/>
+        <location filename="../main.cpp" line="42"/>
         <source>Spring</source>
         <translation>Vrijeme</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="46"/>
+        <location filename="../main.cpp" line="43"/>
         <source>Summer</source>
         <translation>Ljetno vrijeme</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="47"/>
+        <location filename="../main.cpp" line="44"/>
         <source>Autumn</source>
         <translation>Jesen</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="48"/>
+        <location filename="../main.cpp" line="45"/>
         <source>Winter</source>
         <translation>Zima</translation>
     </message>
